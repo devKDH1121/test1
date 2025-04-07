@@ -6,10 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>	
-	<p>첫 메인</p>
-<ㅗ1>ㄹㅇㄹㅇ</>
-push테스트
-
+<body>
+	<h1>왜 안올라감?</h1>
 </body>
 </html>
